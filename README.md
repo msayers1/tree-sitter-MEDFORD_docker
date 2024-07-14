@@ -1,2 +1,2 @@
 # Medford Tree-Sitter Docker Repo
-Hopefully you can pull down the repo, and run docker, and it will spit out a parsed version of the Python Sample. The next step is to work on it just building a Python module. 4
+Hopefully you can pull down the repo, and run docker, and it will spit out a parsed version of the Python Sample. The next step is to work on it just building a Python module.
